@@ -130,7 +130,7 @@ Analyzed 678 customer support chatbot conversations to identify conversation pat
 - task1.py, task2.py
 > run these after cloned the repo and install the requirments and it generate the CSVs and Images.
 
-### BDF Document + agentic AI system design
+### PDF Document + agentic AI system design
 
 - PDF (All deatils inclueding:explanation of agentic AI system design and other tasks )- Final Report : explaining methodology, assumptions, and results
 
