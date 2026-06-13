@@ -24,13 +24,23 @@ pip install -r requirements.txt
 
 ### 4. run the apps by 
 
+NLP (regex, TF-IDF)، Optimization (KMeans + convex hull)، Confidence scores
 
 
+Files saved:
+File Size Purpose
+deliveries_with_extracted_fields.csv: All data + extracted fields Task 1.1
+deliveries_16_oct_with_estimates.csv :313 rows + estimates + confidence Task 1.2
+dispatch_plan.json: Distribution plan + area 64.84 km² Task 1.3
 
-### And, Edit .env file and add your API keys:
-FINNHUB_API_KEY=your_finnhub_key_here
 
-NEWS_API_KEY=your_newsapi_key_here
+✅ Part 1.1: 135 building, 771 apartment, 552 street, 342 landmark
+✅ Part 1.2: 311/313 estimated (99.4%), avg confidence 42.1%
+✅ Part 1.3: 308 shipments, 20 couriers, total area 64.8354 km²
 
-### 5. Run the server
-uvicorn app.main:app --reload
+
+Assumptions made in Task 1:
+1. All deliveries are within Nasr City, Cairo
+2. Missing coordinates (16-10) are estimated using historical matching
+3. Operational area is calculated using convex hull of delivery points
+4. Courier assignment is based on location clustering (KMeans)
