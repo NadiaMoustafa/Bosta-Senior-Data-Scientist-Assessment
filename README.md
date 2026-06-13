@@ -38,6 +38,13 @@ dispatch_plan.json: Distribution plan + area 64.84 km² Task 1.3
 ✅ Part 1.2: 311/313 estimated (99.4%), avg confidence 42.1%
 ✅ Part 1.3: 308 shipments, 20 couriers, total area 64.8354 km²
 
+when you run file one task1.py
+
+it creates 
+3 file (2 csvs and 1 json)
+5 iamges as charts
+note when appears to you the image you must close it after review it to show another one
+
 
 Assumptions made in Task 1:
 1. All deliveries are within Nasr City, Cairo
