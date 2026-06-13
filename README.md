@@ -53,5 +53,4 @@ and files :
 **dispatch_plan.json**:                     Distribution plan + area 64.84 km² Task 1.3
 
 
-3. Operational area is calculated using convex hull of delivery points
-4. Courier assignment is based on location clustering (KMeans)
+
