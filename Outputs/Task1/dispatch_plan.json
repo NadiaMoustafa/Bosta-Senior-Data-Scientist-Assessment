@@ -1,0 +1,2616 @@
+{
+  "date": "2025-10-15",
+  "total_shipments": 308,
+  "num_couriers": 20,
+  "constraints": {
+    "min_shipments_per_courier": 10,
+    "max_shipments_per_courier": 20
+  },
+  "total_operational_area_km2": 64.8354,
+  "couriers": [
+    {
+      "courier_id": 1,
+      "num_shipments": 16,
+      "operational_area_km2": 3.331956,
+      "shipments": [
+        {
+          "delivery_id": 0,
+          "address": "٣٥ جمال الدين عفيفي متفرع من حسن المامون (شارع النادى الاهلى) مدينة نصر, Nasr City",
+          "lat": 30.0648858,
+          "lon": 31.3553825,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 20,
+          "address": "٢٦زهير صبرى مدينه نصر المنطقه الاولى, القاهره",
+          "lat": 30.0547511,
+          "lon": 31.3289647,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 40,
+          "address": "مدينة نصر \nالحي الاول \nمتفرع من عباس العقاد \nشارع علي توفيق شوشه\nدور ٣\nشقة ٦",
+          "lat": 30.0565,
+          "lon": 31.3321818,
+          "building_number": "nan",
+          "apartment_number": "6"
+        },
+        {
+          "delivery_id": 60,
+          "address": "مدينة نصر المنطقة السادسة شارع 21 جمال الدين عفيفي متفرع من احمد فخري مقابل حديقة الورد عمارة 21 جمال الدين عفيفي الدور السابع شقة 14",
+          "lat": 30.0646825,
+          "lon": 31.353665,
+          "building_number": "nan",
+          "apartment_number": "14"
+        },
+        {
+          "delivery_id": 80,
+          "address": "مدينة نصر المنطقة السادسة شارع امين الريحاني العمارة ١١ الطابق الاول شقة رقم ٢ مدينة نصر \r\n \r\n: 01002645038 ",
+          "lat": 30.065018,
+          "lon": 31.3516858,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 100,
+          "address": "شارع الرياضة",
+          "lat": 30.0613463,
+          "lon": 31.3300034,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 120,
+          "address": "٤ عماد الدين كامل عمارة الحاتي خلف كشري التحرير اول عباس العقاد مدينة نصر الدور ال ٨ شقة ١٦ Nasr City \r\n \r\n:  ",
+          "lat": 30.0670059,
+          "lon": 31.3359643,
+          "building_number": "nan",
+          "apartment_number": "16"
+        },
+        {
+          "delivery_id": 140,
+          "address": "12 شارع محمد طلعت سالم، الحي الأول، مدينة نصر",
+          "lat": 30.0643066,
+          "lon": 31.3321376,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 160,
+          "address": "17 شارع الشيخ احمد الصاوي امام سنابل الشام",
+          "lat": 30.0570442,
+          "lon": 31.3488715,
+          "building_number": "nan",
+          "apartment_number": "16"
+        },
+        {
+          "delivery_id": 180,
+          "address": "العنوان مدينة نصر المنطقة الاولي ١٥ شارع اسماعيل القباني شقة ٦ ",
+          "lat": 30.0586377,
+          "lon": 31.3289671,
+          "building_number": "nan",
+          "apartment_number": "6"
+        },
+        {
+          "delivery_id": 200,
+          "address": "٤٧ محمد كامل الحاروني، مدينة نصر",
+          "lat": 30.0622524,
+          "lon": 31.3562232,
+          "building_number": "nan",
+          "apartment_number": "7"
+        },
+        {
+          "delivery_id": 220,
+          "address": "٧ شارع معز الدوله الدور العاشر شقه ١٩ الدور١٠ شقه ١٩",
+          "lat": 30.059736,
+          "lon": 31.3473231,
+          "building_number": "nan",
+          "apartment_number": "19"
+        },
+        {
+          "delivery_id": 240,
+          "address": "٣٠ قورش متفرع من حسنين هيكل, Nasr city",
+          "lat": 30.0593978,
+          "lon": 31.3397887,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 260,
+          "address": "١٠ ش محمود غنيم متفرع من احمد فخري مكرم عبيد مدينه نصر, Nasr",
+          "lat": 30.0633206,
+          "lon": 31.3520306,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 280,
+          "address": "45 شارع أحمد حسني، مدينة نصر",
+          "lat": 30.0602882,
+          "lon": 31.3291267,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 300,
+          "address": "85 حافظ رمضان، مدينة نصر، القاهرة، مدينة نصر",
+          "lat": 30.0690371,
+          "lon": 31.3529244,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        }
+      ]
+    },
+    {
+      "courier_id": 2,
+      "num_shipments": 16,
+      "operational_area_km2": 3.601773,
+      "shipments": [
+        {
+          "delivery_id": 1,
+          "address": "١ أنور المفتي من عباس العقاد مدينة نصر C Cairo",
+          "lat": 30.0672427,
+          "lon": 31.3354121,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 21,
+          "address": "مدينة نصر القاهره  ٤ شارع الطيران رابعه العدويه مدينة نصر عماره بنك مصر خلف مسجد رابعه العدويه  اللون الزيتي - مدينة نصر - Cairo",
+          "lat": 30.0660989,
+          "lon": 31.3255382,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 41,
+          "address": "٧ش. على الجندى المنطقة السادسة مدينة نصر بجوار معهد الخدمة الاجتماعية, مدينة نصر",
+          "lat": 30.0663516,
+          "lon": 31.3515108,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 61,
+          "address": "مدينه نصر 3 ش احمد الصيفي متفرع من مصطفي النحاس الدور 7 شقه 704, Nasr City",
+          "lat": 30.0535719,
+          "lon": 31.3422575,
+          "building_number": "nan",
+          "apartment_number": "704"
+        },
+        {
+          "delivery_id": 81,
+          "address": "٧، شارع دكتور محمد مندور، رابعة العدوية مدينة نصر، مدينة نصر",
+          "lat": 30.06483,
+          "lon": 31.3262204,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 101,
+          "address": "٢٨ عز الدين طه المنطقة الأولى خلف جنينة مول مدينة نصر الدور التالت شقة ٦",
+          "lat": 30.0593391,
+          "lon": 31.3300371,
+          "building_number": "6",
+          "apartment_number": "6"
+        },
+        {
+          "delivery_id": 121,
+          "address": "عمارة اسمها كوين بلازا شارع انور المفتى من اول عباس العقاد الدور الرابع شقه ٤٨ مدينه نصر \r\n \r\n:  ",
+          "lat": 30.0669999,
+          "lon": 31.3331361,
+          "building_number": "nan",
+          "apartment_number": "48"
+        },
+        {
+          "delivery_id": 141,
+          "address": "٢٢ عزت سلامة متفرع من عباس العقاد مدينة نصر ",
+          "lat": 30.0548587,
+          "lon": 31.3418418,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 161,
+          "address": "١٤محمد كريم مدنيه نصر القاهرة",
+          "lat": 30.0671743,
+          "lon": 31.3517571,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 181,
+          "address": "٣٣ محمد كريم من محمد المقرفي، مدينة نصر، القاهرة",
+          "lat": 30.0672743,
+          "lon": 31.3548509,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 201,
+          "address": "١٠ شارع الازهار خلف شيخ البلد ، عباس العقاد, Cairo",
+          "lat": 30.0635052,
+          "lon": 31.3351493,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 221,
+          "address": "١٤حافظ ابراهيم مكرم عبيد, مدينة نصر",
+          "lat": 30.0657914,
+          "lon": 31.3430373,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 241,
+          "address": "عباس العقاد شارع انور المفتي عماره ١٦ شقه ١٣ تحت البيت في صيدليه القاهره ٢٠٠٠",
+          "lat": 30.0669337,
+          "lon": 31.3286919,
+          "building_number": "16",
+          "apartment_number": "13"
+        },
+        {
+          "delivery_id": 261,
+          "address": "٣٠ شارع جمال الدين عفيفي (من شارع حسن المأمون) المنطقة السادسة مدينة نصر الدور السادس شقة ١١, القاهره",
+          "lat": 30.0650674,
+          "lon": 31.3551096,
+          "building_number": "nan",
+          "apartment_number": "11"
+        },
+        {
+          "delivery_id": 281,
+          "address": "شارع حسني احمد خلف ، عماره رقم ٤١، الدور رقم ١٢، شقة رقم ٢٦",
+          "lat": 30.0567831,
+          "lon": 31.352702,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 301,
+          "address": "القاهرة مدينة نصر 48 عبدالرازق سنهوري الدور السادس شقه شمال المصعد",
+          "lat": 30.0632205,
+          "lon": 31.3441798,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        }
+      ]
+    },
+    {
+      "courier_id": 3,
+      "num_shipments": 16,
+      "operational_area_km2": 3.520842,
+      "shipments": [
+        {
+          "delivery_id": 2,
+          "address": "٥ ش الدكتور البطراوي مدينة نصر بجوار جنينه مول التوصيل من الأحد للخميس قبل الساعه ٣, Cairo",
+          "lat": 30.061152,
+          "lon": 31.3309879,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 22,
+          "address": " ١١ شارع الشيخ محمد النادي متفرع من مكرم عبيد خلف محجوب للسيراميك الدور ١١ شقه ١١٠١ مدينه نصر القاهرة",
+          "lat": 30.0556987,
+          "lon": 31.348932,
+          "building_number": "nan",
+          "apartment_number": "1101"
+        },
+        {
+          "delivery_id": 42,
+          "address": "عباس العقاد عمارة 14 محل silver sun",
+          "lat": 30.0658193,
+          "lon": 31.3369351,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 62,
+          "address": "٧٦ شارع الطيران مدينه نصر الدور الثالث شركه سامكو, Nasr City",
+          "lat": 30.0564135,
+          "lon": 31.3270089,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 82,
+          "address": "٣٩ شارع عبد الرزاق السنيهوري، متفرع من مكرم عبيد، الدور الثاني، شقة ٣, Nasr City",
+          "lat": 30.0629828,
+          "lon": 31.3432585,
+          "building_number": "nan",
+          "apartment_number": "3"
+        },
+        {
+          "delivery_id": 102,
+          "address": "مدينة نصر 61 مصطفى النحاس مدينه  نصر",
+          "lat": 30.0546009,
+          "lon": 31.3470414,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 122,
+          "address": "46 مصطفي النحاس",
+          "lat": 30.0548393,
+          "lon": 31.3446614,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 142,
+          "address": "مدينه نصر الشيخ احمد الصاوي عماره ٤٠الدور الخامس شقه ١٥ القاهرة",
+          "lat": 30.0579543,
+          "lon": 31.3549156,
+          "building_number": "40",
+          "apartment_number": "15"
+        },
+        {
+          "delivery_id": 162,
+          "address": "1 شارع محمد توفيق وهبه متفرع من شارع لوساكا متفرع من أحمد فخري مدينه نصر الدور الثالث شقه ٣ بأسم محمد قدري",
+          "lat": 30.0653611,
+          "lon": 31.3537729,
+          "building_number": "nan",
+          "apartment_number": "3"
+        },
+        {
+          "delivery_id": 182,
+          "address": "شارع ذكي رستم",
+          "lat": 30.0610124,
+          "lon": 31.339969,
+          "building_number": "nan",
+          "apartment_number": "8"
+        },
+        {
+          "delivery_id": 202,
+          "address": "13 حسني أحمد خلف 10,5",
+          "lat": 30.0564961,
+          "lon": 31.3489392,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 222,
+          "address": "4/3 كوين بلاز، شارع أنور المفتي، مدينة نصر، الدور الأول، شقة 9، القاهرة، مصر",
+          "lat": 30.0669194,
+          "lon": 31.333085,
+          "building_number": "nan",
+          "apartment_number": "9"
+        },
+        {
+          "delivery_id": 242,
+          "address": "١٩ ش محمد كريم لدور الخامس شقه ١٣ المنطقة السادسة مدينة نصر, Cairo",
+          "lat": 30.0671788,
+          "lon": 31.3531294,
+          "building_number": "nan",
+          "apartment_number": "13"
+        },
+        {
+          "delivery_id": 262,
+          "address": "٣٥ شارع لوساكا متفرع من احمد فخري مدينة نصر",
+          "lat": 30.0660809,
+          "lon": 31.3552502,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 282,
+          "address": "٦ أحمد نور الدين - مكرم عبيد - مدينة نصر",
+          "lat": 30.0612027,
+          "lon": 31.3435215,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 302,
+          "address": "٣١ شارع صقليه متفرع من مكرم عبيد الدور التاني شقه ٢٠١, Cairo",
+          "lat": 30.05765,
+          "lon": 31.3441961,
+          "building_number": "nan",
+          "apartment_number": "201"
+        }
+      ]
+    },
+    {
+      "courier_id": 4,
+      "num_shipments": 16,
+      "operational_area_km2": 3.519327,
+      "shipments": [
+        {
+          "delivery_id": 3,
+          "address": "٥ مصطفى الرياض، مدينة نصر",
+          "lat": 30.0626608,
+          "lon": 31.3306497,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 23,
+          "address": "مدينة نصر 2 جمال الدين عفيفي الدور ال 12 شقه 24",
+          "lat": 30.0646527,
+          "lon": 31.3505353,
+          "building_number": "nan",
+          "apartment_number": "24"
+        },
+        {
+          "delivery_id": 43,
+          "address": "ش حسنين هيكل متفرع من عباس العقاد, Nasr City",
+          "lat": 30.0639038,
+          "lon": 31.3382525,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 63,
+          "address": " مدينة نصر  شارع حسنى احمد خلف  متفرع من مصطفى النحاس  عمارة 58 الطابق اول شقة ١٠٣",
+          "lat": 30.057337,
+          "lon": 31.354985,
+          "building_number": "nan",
+          "apartment_number": "103"
+        },
+        {
+          "delivery_id": 83,
+          "address": "القاهرة مدينة نصر الحى الأول ٢٢ شارع على توفيق شوشة الطابق التانى, مدينه نصر - القاهرة **",
+          "lat": 30.0560294,
+          "lon": 31.3322845,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 103,
+          "address": "شارع محمد توفيق وهبه ا",
+          "lat": 30.065427,
+          "lon": 31.3544792,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 123,
+          "address": "مدينة نصر ١١ شارع امين الريحاني الدور الثالث شقه سته - المنطقة6 مدينة نصر",
+          "lat": 30.0650963,
+          "lon": 31.3516949,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 143,
+          "address": "طريق النصر",
+          "lat": 30.0677108,
+          "lon": 31.3323252,
+          "building_number": "81",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 163,
+          "address": "37 شارع لوزاكا، مدينة نصر",
+          "lat": 30.066175,
+          "lon": 31.3550903,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 183,
+          "address": "\tCairo\t٢شارع توفيق البكري -متفرع من إبراهيم نوار خلف مستشفى حسبو الدولي -الدور السابع -شقه ٧٠٢",
+          "lat": 30.0677679,
+          "lon": 31.3501473,
+          "building_number": "nan",
+          "apartment_number": "702"
+        },
+        {
+          "delivery_id": 203,
+          "address": "٢٠ انور المفتي بجوار ساليه سوكريه, القاهره",
+          "lat": 30.0670556,
+          "lon": 31.3293257,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 223,
+          "address": "٩شارع سمير مرسى مدينة نصر أمام حديقة صقلية فوق كافية كلاسيكو متفرع من حسنين هيكل",
+          "lat": 30.0583293,
+          "lon": 31.3411199,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 243,
+          "address": "١١ شارع بشار بن برد امام بوابة 5 مسجد الارقم شارع أحمد الصاوي من مكرم عبيد مدينة نصر",
+          "lat": 30.0572377,
+          "lon": 31.3539844,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 263,
+          "address": "١١عماد الدين كامل",
+          "lat": 30.0661518,
+          "lon": 31.332483,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 283,
+          "address": "مدينة نصر ..أحمدفخري ش لوساكا عمارة ٢٧, مدينة نصر",
+          "lat": 30.0660812,
+          "lon": 31.3543472,
+          "building_number": "nan",
+          "apartment_number": "9"
+        },
+        {
+          "delivery_id": 303,
+          "address": "مدينة نصر-مدينة نصر  شارع محمد مندور عمار 10 الطابق 7 شقه 601-مدينة نصر",
+          "lat": 30.0652956,
+          "lon": 31.3264528,
+          "building_number": "nan",
+          "apartment_number": "601"
+        }
+      ]
+    },
+    {
+      "courier_id": 5,
+      "num_shipments": 16,
+      "operational_area_km2": 3.172264,
+      "shipments": [
+        {
+          "delivery_id": 4,
+          "address": "١٥ شارع امين الريحاني من شارع احمد فخري مدينه نصر المنطقه السادسه",
+          "lat": 30.0652552,
+          "lon": 31.3523078,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 24,
+          "address": "69 ابو داوود الظاهري - القاهرة - مكرم عبيد - مدينة نصر",
+          "lat": 30.0612625,
+          "lon": 31.3552375,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 44,
+          "address": "٢٠ أ شارع طرابلس متفرع من عباس العقاد - مدينة نصر",
+          "lat": 30.0589198,
+          "lon": 31.3411404,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 64,
+          "address": "مدينه نصر عباس العقاد شارع الفلوجه 3 الدور السادس شقه 602 باسم مني محمد, القاهره",
+          "lat": 30.0592733,
+          "lon": 31.3350614,
+          "building_number": "nan",
+          "apartment_number": "602"
+        },
+        {
+          "delivery_id": 84,
+          "address": "مدينة نصر شارع كابول عمارة ٥٧ برج النور, مدينة نصر",
+          "lat": 30.0611839,
+          "lon": 31.3444736,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 104,
+          "address": "٢٩ ش البطراوى عباس العقاد. مدينة نصر القاهرة",
+          "lat": 30.0616397,
+          "lon": 31.3362967,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 124,
+          "address": "٣٤ جمال الدين عفيفي- حسن المعمّون- مدينة نادر، مدينة نصر",
+          "lat": 30.0649957,
+          "lon": 31.3557225,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 144,
+          "address": "30 تحسين فرغلي المنطقه الاولي مدينه نصر",
+          "lat": 30.0628115,
+          "lon": 31.3318214,
+          "building_number": "30",
+          "apartment_number": "6"
+        },
+        {
+          "delivery_id": 164,
+          "address": "٣٦ ش جمال الدين عفيف متفرع من حسن المأمون مدينة نصر",
+          "lat": 30.0649591,
+          "lon": 31.3555586,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 184,
+          "address": "حافظ رمضان",
+          "lat": 30.0688679,
+          "lon": 31.3538315,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 204,
+          "address": "محمد مندور، مدينة نصر، مدينة نصر",
+          "lat": 30.0599908,
+          "lon": 31.3270203,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 224,
+          "address": "مدينة. نصر مكرم عبيد ٢٠كابول الطابق العاشر شقة ١٠٠٢ القاهرة",
+          "lat": 30.0588999,
+          "lon": 31.3442463,
+          "building_number": "nan",
+          "apartment_number": "1002"
+        },
+        {
+          "delivery_id": 244,
+          "address": "١١ شارع اللواء محمود سامي البارودي متفرع من كابول مكرم عبيد مدينة نصر ",
+          "lat": 30.0606158,
+          "lon": 31.3428268,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 264,
+          "address": "22 شارع عزت سلامة، مدينة نصر، مدينة نصر",
+          "lat": 30.0548932,
+          "lon": 31.3418293,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 284,
+          "address": "١ شارع انور المفتي متفرع من عباس العقاد مدخل ج, Cairo",
+          "lat": 30.0673646,
+          "lon": 31.335325,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 304,
+          "address": "شارع محمد صقر خفاجه متفرع مم عباس العقاد, Nasr",
+          "lat": 30.0575276,
+          "lon": 31.3347584,
+          "building_number": "28",
+          "apartment_number": "nan"
+        }
+      ]
+    },
+    {
+      "courier_id": 6,
+      "num_shipments": 16,
+      "operational_area_km2": 2.782738,
+      "shipments": [
+        {
+          "delivery_id": 5,
+          "address": "مدينة نصر ٤٣ش محمد توفيق دياب متفرع من مكرم عبيد الدور الثاني شقه ٥ مدينه نصر",
+          "lat": 30.063591,
+          "lon": 31.3440983,
+          "building_number": "nan",
+          "apartment_number": "5"
+        },
+        {
+          "delivery_id": 25,
+          "address": "18 شارع كوراش، مدينة نصر، المنطقة 6، الطابق 9، الشقة 19",
+          "lat": 30.0596493,
+          "lon": 31.3409271,
+          "building_number": "nan",
+          "apartment_number": "19"
+        },
+        {
+          "delivery_id": 45,
+          "address": "8 شارع الاسعار متفرع من شارع عباس مدينه نصر",
+          "lat": 30.0633324,
+          "lon": 31.3352664,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 65,
+          "address": "شارع محمد كامل الحاروني، مدينة نصر",
+          "lat": 30.0620546,
+          "lon": 31.350677,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 85,
+          "address": "٢٢ معز الدوله مكرم عبيد مدينه نصر, Cairo - القاهرة, Egypt",
+          "lat": 30.060086,
+          "lon": 31.3485158,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 105,
+          "address": "مدينه نصر ٥٦ شارع الطيران مدينة نصر",
+          "lat": 30.0595797,
+          "lon": 31.3265346,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 125,
+          "address": "31شارع محمد صقر خفاجا متفرع من شارع البطراوي عباس العقاد مدينه نصر  مدينة نصر",
+          "lat": 30.0571637,
+          "lon": 31.3345901,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 145,
+          "address": "30 زهير صبري متفرع من الطيران خلف حي مدينة نصر\r\nC\r\nالقاهرة\r\n1234",
+          "lat": 30.0547511,
+          "lon": 31.3289647,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 165,
+          "address": "14 ابن الهيثم عباس العقاد، مدينة نصر",
+          "lat": 30.0550938,
+          "lon": 31.3364949,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 185,
+          "address": "مدينة نصر شارع حسن المأمون ٦٠ شارع ابو داود الظاهري .شركة مشارق للزراعة العضوية",
+          "lat": 30.061763,
+          "lon": 31.3556431,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 205,
+          "address": "١٠ شارع مصطفى رياض المنطقة الاولى مدينة نصر, القاهرة",
+          "lat": 30.0644291,
+          "lon": 31.3307782,
+          "building_number": "nan",
+          "apartment_number": "7"
+        },
+        {
+          "delivery_id": 225,
+          "address": "٥ إسماعيل القباني",
+          "lat": 30.0589167,
+          "lon": 31.3272871,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 245,
+          "address": "\"عمارة ٤ شارع احمد حسنى  مدينة نصر الدور ٩ شقة شمال الاسانسير\"",
+          "lat": 30.0653352,
+          "lon": 31.3284598,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 265,
+          "address": "العنوان : ٥١ مصفي النحاس الدور التالت شقة ١٠ جنب بنك abc, العنوان : ٥١ مصفي النحاس الدور التالت شقة ١٠ جنب بنك abc Cairo",
+          "lat": 30.0542231,
+          "lon": 31.3453308,
+          "building_number": "nan",
+          "apartment_number": "10"
+        },
+        {
+          "delivery_id": 285,
+          "address": "٥٤شارع الطيران مدينه نصر القاهرة الدور الثاني شقة ٢٠٢, .. Cairo",
+          "lat": 30.0597827,
+          "lon": 31.3262765,
+          "building_number": "nan",
+          "apartment_number": "202"
+        },
+        {
+          "delivery_id": 305,
+          "address": " 5رفح مدينه نصر  القاهره",
+          "lat": 30.0556914,
+          "lon": 31.33616,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        }
+      ]
+    },
+    {
+      "courier_id": 7,
+      "num_shipments": 16,
+      "operational_area_km2": 3.671675,
+      "shipments": [
+        {
+          "delivery_id": 6,
+          "address": " 63 شارع حسنى احمد خلف مدينة نصر من مكرم عبيد الدور 10 شقة 29",
+          "lat": 30.0572129,
+          "lon": 31.3553284,
+          "building_number": "nan",
+          "apartment_number": "29"
+        },
+        {
+          "delivery_id": 26,
+          "address": " ;مدينة نصر المنطقة السادسة  ٤٢ تقاطع جمال الدين عفيفي مع محمد المقريفي  الدور التاسع شقة ٩٠١ ",
+          "lat": 30.0654943,
+          "lon": 31.3565768,
+          "building_number": "nan",
+          "apartment_number": "901"
+        },
+        {
+          "delivery_id": 46,
+          "address": "١٤ شارع الدكتور عز الدين طه المنطقه الأولي خلف جنينه مول وبجوار صيدليه القناعه وتاج چيم مدينه نصر",
+          "lat": 30.0585069,
+          "lon": 31.3301783,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 66,
+          "address": "٩ شارع محمد مندور الحي السادس منطقة رابعه ---             الدور كله شقه واحده ---             Nasr city",
+          "lat": 30.0646768,
+          "lon": 31.3261242,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 86,
+          "address": "‎١٠ شارع الفريق علي عامر المنطقة السادسة مدينة نصر الدور الارضي, Cairo",
+          "lat": 30.0614626,
+          "lon": 31.3393717,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 106,
+          "address": "24 جمال الدين عفيفي 10 مدينة نصر",
+          "lat": 30.0649515,
+          "lon": 31.3543478,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 126,
+          "address": "Eldor12 شقة 123، نصر",
+          "lat": 30.0652274,
+          "lon": 31.3306946,
+          "building_number": "nan",
+          "apartment_number": "123"
+        },
+        {
+          "delivery_id": 146,
+          "address": "٤الفريق محمد إبراهيم خلف حادزعيباس العقاد مدينه نصر الددور التالت شقه ٣٠٢",
+          "lat": 30.0563065,
+          "lon": 31.3401101,
+          "building_number": "nan",
+          "apartment_number": "302"
+        },
+        {
+          "delivery_id": 166,
+          "address": "٥ إسماعيل القباني، مدينة نصر",
+          "lat": 30.0590997,
+          "lon": 31.3270559,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 186,
+          "address": "طريق النصر عمارة ٨١ ",
+          "lat": 30.0677224,
+          "lon": 31.3323562,
+          "building_number": "81",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 206,
+          "address": "مدينة نصر ابن هاني الأندلسي",
+          "lat": 30.0630811,
+          "lon": 31.3283123,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 226,
+          "address": "building 33, floor7, apt 12-abd el azim el gholamy-مدينة نصر",
+          "lat": 30.0647033,
+          "lon": 31.3427056,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 246,
+          "address": "٣٠ شارع كابول من مكرم عبيد, مدينة نصر",
+          "lat": 30.0611427,
+          "lon": 31.343869,
+          "building_number": "nan",
+          "apartment_number": "6"
+        },
+        {
+          "delivery_id": 266,
+          "address": "137 مصطفى النحاس مدينة نصر",
+          "lat": 30.0553672,
+          "lon": 31.3563829,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 286,
+          "address": "77محمد حسنين هيكل مدينه نصر القاهرة ",
+          "lat": 30.0576059,
+          "lon": 31.3391012,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 306,
+          "address": "مدينه نصر مصطفي النحاس الرئيسي برج ريهام رقم 126",
+          "lat": 30.0560614,
+          "lon": 31.3567337,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        }
+      ]
+    },
+    {
+      "courier_id": 8,
+      "num_shipments": 16,
+      "operational_area_km2": 4.103323,
+      "shipments": [
+        {
+          "delivery_id": 7,
+          "address": "٣٠ على الجندى مدينة نصر خلف معهد الخدمة المنطقة السادسة",
+          "lat": 30.0668936,
+          "lon": 31.3545194,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 27,
+          "address": "١١اسماعيل القباني الدور الرابع شقة ٥٠١, القاهره مدينة نصر",
+          "lat": 30.0586022,
+          "lon": 31.3282796,
+          "building_number": "nan",
+          "apartment_number": "501"
+        },
+        {
+          "delivery_id": 47,
+          "address": "القاهرة / مدينة نصر / 68 شارع الطيران، مدينة نصر",
+          "lat": 30.0574447,
+          "lon": 31.3266935,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 67,
+          "address": "شارع عباس العقاد",
+          "lat": 30.0591424,
+          "lon": 31.3380828,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 87,
+          "address": "مدينة نصر المنطقة السادسة، 7 شارع الفريق محمد إبراهيم، الدور السابع، شقة 15",
+          "lat": 30.0562,
+          "lon": 31.3408826,
+          "building_number": "nan",
+          "apartment_number": "15"
+        },
+        {
+          "delivery_id": 107,
+          "address": "١٧شارع مصطفى النحاس مدينه نصر  Nasr city",
+          "lat": 30.0538429,
+          "lon": 31.3407884,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 127,
+          "address": "11 ش حسنى احمد خلف -متفرع من مكرم عبيد - خلف حجوب للسيراميك مدينه نصر القاهرة",
+          "lat": 30.0565552,
+          "lon": 31.348958,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 147,
+          "address": "مدينة نصر شارع ابوداؤود الظاهري",
+          "lat": 30.0605639,
+          "lon": 31.3506618,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 167,
+          "address": "مدينة نصر ؛ 22A شارع أنور المفتي، مدينة نصر",
+          "lat": 30.0668993,
+          "lon": 31.3300244,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 187,
+          "address": "23 الفريق علي عامر متفرع من مكرم عبيد - مدينة نصر - الدور السادس",
+          "lat": 30.0618148,
+          "lon": 31.3424631,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 207,
+          "address": "٢ شارع توفيق البكري -متفرع من إبراهيم نوار خلف مستشفى حسبو الدولي \nالدور السابع -شقه ٧٠٢",
+          "lat": 30.0676405,
+          "lon": 31.3501907,
+          "building_number": "nan",
+          "apartment_number": "702"
+        },
+        {
+          "delivery_id": 227,
+          "address": "القاهره مدينه نصر ٤ ش الرياضه الدور ٣ شقه ٣٠٣",
+          "lat": 30.0609938,
+          "lon": 31.3299696,
+          "building_number": "nan",
+          "apartment_number": "303"
+        },
+        {
+          "delivery_id": 247,
+          "address": " شارع حسن مأمون",
+          "lat": 30.0583788,
+          "lon": 31.3573024,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 267,
+          "address": "٥ شارع محمد المرجوشي متفرع من شارع إبراهيم نوار متفرع من شارع أحمد فخري المنطقة السادسة مدينة نصر الدور ٨ شقة ١٨",
+          "lat": 30.0625126,
+          "lon": 31.3514074,
+          "building_number": "nan",
+          "apartment_number": "18"
+        },
+        {
+          "delivery_id": 287,
+          "address": "24 محمد توفيق وهبة شقة رقم 4 - الطابق الثاني مدينة نصر",
+          "lat": 30.0656927,
+          "lon": 31.3562844,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 307,
+          "address": "37 محمد مندور, القاهره",
+          "lat": 30.0618831,
+          "lon": 31.3267724,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        }
+      ]
+    },
+    {
+      "courier_id": 9,
+      "num_shipments": 15,
+      "operational_area_km2": 3.271797,
+      "shipments": [
+        {
+          "delivery_id": 8,
+          "address": "القاهره - مدينة نصر - المنطقة السادسة -  ٢٩ شارع جمال الدين عفيفى متفرع من حسن المامون خلف النادي الاهلي",
+          "lat": 30.0648318,
+          "lon": 31.3544273,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 28,
+          "address": "66 عباس العقاد، مدينة نصر",
+          "lat": 30.0597023,
+          "lon": 31.3377234,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 48,
+          "address": "حسن المعامون، مدينة نصر, ElHay 10 (Nasr City), Nasr City, Cairo\t",
+          "lat": 30.0669917,
+          "lon": 31.3570033,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 68,
+          "address": "24 زهير صبري متفرع من شارع الطيران مدينه نصر الدور التاسع شقه ٩٠٢, القاهره",
+          "lat": 30.0549922,
+          "lon": 31.3268199,
+          "building_number": "nan",
+          "apartment_number": "902"
+        },
+        {
+          "delivery_id": 88,
+          "address": " 14شارع احمد نور الدين متفرع من شارع كابول متفرع من مكرم عبيد مدينة نصر القاهرة",
+          "lat": 30.0613788,
+          "lon": 31.3424702,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 108,
+          "address": "عمارة ١٧ الدور العاشر ، شارع قورش متفرع من مكرم عبيد , القاهرة, Cairo",
+          "lat": 30.0597937,
+          "lon": 31.3421055,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 128,
+          "address": "مدينه نصر شارع انور المفتي عماره 3/4 كوين بلازا سوبر ماركت بابس",
+          "lat": 30.0672065,
+          "lon": 31.3329558,
+          "building_number": "3",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 148,
+          "address": "مدينة نصر احمد فخري شارع محمد توفيق وهبة عمارة ١ الدور ٧ شقة ٧, مدينة نصر",
+          "lat": 30.0653644,
+          "lon": 31.3538179,
+          "building_number": "nan",
+          "apartment_number": "7"
+        },
+        {
+          "delivery_id": 168,
+          "address": "3/301، نصر",
+          "lat": 30.0668661,
+          "lon": 31.3432573,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 188,
+          "address": "مدينه نصر شارع البطران عمارة جنينه مول",
+          "lat": 30.061121,
+          "lon": 31.3326749,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 208,
+          "address": "٥ إسماعيل القباني، مدينة نصر",
+          "lat": 30.0589167,
+          "lon": 31.3272871,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 228,
+          "address": "شارع مصطفى رياض، مدينة نصر (أمام جنينة مول) 5، القاهرة",
+          "lat": 30.0626608,
+          "lon": 31.3306497,
+          "building_number": "nan",
+          "apartment_number": "6"
+        },
+        {
+          "delivery_id": 248,
+          "address": "مدينة نصر ش محمد المقريفي عماره ٢٩الجديده - Nasr City",
+          "lat": 30.0599594,
+          "lon": 31.3572008,
+          "building_number": "29",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 268,
+          "address": "٣١ شارع نصر احمد زكي متفرع من شارع البطراوي /مدينه مصر",
+          "lat": 30.0644924,
+          "lon": 31.3343179,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 288,
+          "address": "16، مدينة نصر",
+          "lat": 30.0626169,
+          "lon": 31.3399853,
+          "building_number": "nan",
+          "apartment_number": "16"
+        }
+      ]
+    },
+    {
+      "courier_id": 10,
+      "num_shipments": 15,
+      "operational_area_km2": 2.517716,
+      "shipments": [
+        {
+          "delivery_id": 9,
+          "address": "35 ش ابو داوود الظاهري متفرع من ش مكرم عبيد مدينه نصر القاهره, القاهره",
+          "lat": 30.0609585,
+          "lon": 31.3508941,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 29,
+          "address": "القاهرة مدينة نصر شارع مصطفى النحاس شارع عبدالله بن الطاهر عمارة ٤٣ جوار صيدلية د شيماء  مدينة نصر",
+          "lat": 30.0599824,
+          "lon": 31.3521974,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 49,
+          "address": "٢٢ ش حسني احمد خلف - مدينة نصر - مكرم عبيد - دور ٦ - شقة ١٣, Nasr City Al Manteqah Al Sadesah",
+          "lat": 30.0567605,
+          "lon": 31.3502122,
+          "building_number": "nan",
+          "apartment_number": "13"
+        },
+        {
+          "delivery_id": 69,
+          "address": "27ش محمود سامي باشا, Nasr City",
+          "lat": 30.0601052,
+          "lon": 31.3393384,
+          "building_number": "nan",
+          "apartment_number": "8"
+        },
+        {
+          "delivery_id": 89,
+          "address": "القاهرة مدينه نصر",
+          "lat": 30.0553218,
+          "lon": 31.3350637,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 109,
+          "address": "\"28محمد طلعت سالم-ناصيه نصر احمد زكي-المنطقه الاولي-مدينه نصر-الدور 7شقه20  علامه مميزه تحت العماره سوبر ماركت كازيون\"",
+          "lat": 30.0644508,
+          "lon": 31.3342894,
+          "building_number": "nan",
+          "apartment_number": "20"
+        },
+        {
+          "delivery_id": 129,
+          "address": "القاهرة  ١٣ الفريق الأول على عامر متفرع من مكرم عبيد وموازي لعبد الرازق السنهوري بجانب مدرسة المنار بنين الدور ١١ مدينة نصر القاهرة",
+          "lat": 30.0616262,
+          "lon": 31.339847,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 149,
+          "address": "مدينة نصر-القاهر\t١ عبدالرحمن صدقي  مدينه نصر الدور التالت الشقه ٥-مدينة نصر",
+          "lat": 30.0568791,
+          "lon": 31.3400245,
+          "building_number": "nan",
+          "apartment_number": "5"
+        },
+        {
+          "delivery_id": 169,
+          "address": "شارع ابن الهيثم متفرع من عباس العقاد, Nasr city",
+          "lat": 30.0549362,
+          "lon": 31.3364492,
+          "building_number": "19",
+          "apartment_number": "9"
+        },
+        {
+          "delivery_id": 189,
+          "address": "مدينة النصر شارع أنوار مفتي العمارة 3علي 4 كوين بلازة الدور 11 الشقة 117",
+          "lat": 30.0673023,
+          "lon": 31.3329882,
+          "building_number": "nan",
+          "apartment_number": "117"
+        },
+        {
+          "delivery_id": 209,
+          "address": "▪︎ العنوان : محافظه القاهرة مدينه نصر الحي السابع عند مدينه بنات جامعه الأزهر بوابه البحوث.",
+          "lat": 30.0567229,
+          "lon": 31.3265318,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 229,
+          "address": "مدينه نصر الحى السابع حسنين هيكل متفرع من عباس العقاد عماره 23 الدور ال8 امام سعودى ماركت icon beauty clinic",
+          "lat": 30.0650368,
+          "lon": 31.3378481,
+          "building_number": "23",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 249,
+          "address": "43 شارع الشيخ أحمد الصاوي، مدينة نصر، القاهرة --- شقة --- مدينة نصر",
+          "lat": 30.0576008,
+          "lon": 31.3530907,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 269,
+          "address": "شارع محمد كامل الحاروني - مبنى 6، الطابق 12",
+          "lat": 30.0619354,
+          "lon": 31.3510817,
+          "building_number": "6",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 289,
+          "address": "الدور الخامس شقة 10 29 شارع الفريق محمد إبراهيم، مدينة نصر، الحي السادس، القاهرة، 11765، مصر",
+          "lat": 30.0565202,
+          "lon": 31.3441041,
+          "building_number": "nan",
+          "apartment_number": "10"
+        }
+      ]
+    },
+    {
+      "courier_id": 11,
+      "num_shipments": 15,
+      "operational_area_km2": 2.532703,
+      "shipments": [
+        {
+          "delivery_id": 10,
+          "address": " القاهرة مدينة نصر شارع معز الدولة متفرع من مكرم عبيد بجوار هاني ميكس صيدلية د محمد نشأت عمارة ١١ الدور ١١ شقة ١١٢",
+          "lat": 30.0598434,
+          "lon": 31.3480315,
+          "building_number": "nan",
+          "apartment_number": "112"
+        },
+        {
+          "delivery_id": 30,
+          "address": "3 نور الدين محمود، المنطقة السادسة، ممتد من معز الدولة، مكرم عبيد، مدينة نصر، القاهرة",
+          "lat": 30.0586839,
+          "lon": 31.3474215,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 50,
+          "address": "٢٣ محمد كامل الحروني",
+          "lat": 30.0618028,
+          "lon": 31.3527735,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 70,
+          "address": "٣ شارع انور المفتي الحي الاول مدينة نصر شركة إيجاس, Cairo",
+          "lat": 30.0672537,
+          "lon": 31.3352735,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 90,
+          "address": "مدينه نصر المنطقه الاولي القاهره  شارع بدر الدين العيني متفرع من الطيران, مدينه نصر",
+          "lat": 30.064168,
+          "lon": 31.3281619,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 110,
+          "address": "١١ نصر احمد ذكي متفرع من عباس العقاد مدينه نصر الدور السادس شقه شمال الاسانسير.                            ",
+          "lat": 30.0653288,
+          "lon": 31.333883,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 130,
+          "address": "٣٦ جمال الدين عفيفي متفررع من حسن المأمون مدينة نصر, مدينة نصر",
+          "lat": 30.064993,
+          "lon": 31.3557545,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 150,
+          "address": "23 ش الفريق محمد ابراهيم متفرع من ش محمد حسنين هيكل مدينه نصر الدور 5 شقه 11",
+          "lat": 30.056621,
+          "lon": 31.3436188,
+          "building_number": "nan",
+          "apartment_number": "11"
+        },
+        {
+          "delivery_id": 170,
+          "address": "10 محمد عوض متفرع من مكرم عبيد ، الدور التاني شقة 4,كدينة نصر Cairo",
+          "lat": 30.0670311,
+          "lon": 31.3435408,
+          "building_number": "nan",
+          "apartment_number": "4"
+        },
+        {
+          "delivery_id": 190,
+          "address": "شارع مصطفى درويش",
+          "lat": 30.064369,
+          "lon": 31.343458,
+          "building_number": "nan",
+          "apartment_number": "7"
+        },
+        {
+          "delivery_id": 210,
+          "address": "٩ شارع عبدالعزيز طلعت حرب متفرع من حسن المامون الدور ال ٧ شقه ٧٢, مدينه نصر",
+          "lat": 30.0679967,
+          "lon": 31.3544799,
+          "building_number": "nan",
+          "apartment_number": "72"
+        },
+        {
+          "delivery_id": 230,
+          "address": "دكتور حسنين عبد القادر 28",
+          "lat": 30.0642013,
+          "lon": 31.3549745,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 250,
+          "address": "٦٠ ش أبوداوود الظاهري من حسن المأمون  - مدينة نصر  - القاهرة - شقة ٢ ",
+          "lat": 30.0616482,
+          "lon": 31.3568608,
+          "building_number": "nan",
+          "apartment_number": "2"
+        },
+        {
+          "delivery_id": 270,
+          "address": "45 محمد كامل الحروني، القاهرة",
+          "lat": 30.0621994,
+          "lon": 31.3558703,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 290,
+          "address": "١٣ ش على الجندى متفرع من ش احمد فخرى المنطقة السادسة  م نصر الدور ٦ شقة ١٤, مدينة نصر",
+          "lat": 30.0665178,
+          "lon": 31.3521182,
+          "building_number": "nan",
+          "apartment_number": "14"
+        }
+      ]
+    },
+    {
+      "courier_id": 12,
+      "num_shipments": 15,
+      "operational_area_km2": 3.697851,
+      "shipments": [
+        {
+          "delivery_id": 11,
+          "address": "القاهرة_مدينة نصر_٣الفريق اول علي عامر متفرع من حسنين هيكل المنطقة السادسة  الدور الثاني شقه ٣ العماره اللي فيها لابوار من تحت",
+          "lat": 30.0613233,
+          "lon": 31.3389408,
+          "building_number": "nan",
+          "apartment_number": "3"
+        },
+        {
+          "delivery_id": 31,
+          "address": "2 شارع علي الجندي-",
+          "lat": 30.0666752,
+          "lon": 31.3532567,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 51,
+          "address": "مدينه نصر  شارع محمود سامى البارودى  متفرع من مكرم عبيد عماره ١١ الدور ٤",
+          "lat": 30.060485,
+          "lon": 31.3426984,
+          "building_number": "11",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 71,
+          "address": "١ دكتور محمد زكي منير شارع مكرم عبيد، مدينة نصر",
+          "lat": 30.0667187,
+          "lon": 31.341432,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 91,
+          "address": "القاهره مدينه نصر ش اللواء محمود سامي البارودي  متفرع من ش حسنين هيكل متفرع من عباس العقاد شقة ٢ .. عمارة ٢٤ ..",
+          "lat": 30.0601813,
+          "lon": 31.3405418,
+          "building_number": "nan",
+          "apartment_number": "2"
+        },
+        {
+          "delivery_id": 111,
+          "address": "احمد فخري شارع محمد كامل الحروني عمارة 7 دور الاول شقه 4 مدينه نصر القاهرة  القاهره \r\n \r\n",
+          "lat": 30.0617943,
+          "lon": 31.3507578,
+          "building_number": "nan",
+          "apartment_number": "4"
+        },
+        {
+          "delivery_id": 131,
+          "address": "٦ كامل الحروني، مدينة نصر",
+          "lat": 30.0621856,
+          "lon": 31.3507506,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 151,
+          "address": "٢٤شارع علي توفيق شوشه بجوار الباب الخلفي لكنيسة العذراء مريم والقديس اثانسيوس الرسولي المنطقه الاءولي الدور الاءول شقه ١٠٢ مدام مني متري",
+          "lat": 30.0558964,
+          "lon": 31.332163,
+          "building_number": "nan",
+          "apartment_number": "102"
+        },
+        {
+          "delivery_id": 171,
+          "address": "٣ إسماعيل الكباني من شارع الطيران في مدينة نصر، القاهرة",
+          "lat": 30.0584283,
+          "lon": 31.3270828,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 191,
+          "address": "57 حسني أحمد خلف، مدينة نصر",
+          "lat": 30.0571091,
+          "lon": 31.3549948,
+          "building_number": "nan",
+          "apartment_number": "8"
+        },
+        {
+          "delivery_id": 211,
+          "address": "33 محمد يوسف موسي مدينه نصر",
+          "lat": 30.0540104,
+          "lon": 31.3314273,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 231,
+          "address": "الاهلي لاجهزة الحاسب الالي 27شارع محمد يوسف موسي مدينة نصر او التجمع الاول مجاورة 6عمارة 38ب مدينة نصر القاهرة",
+          "lat": 30.0542878,
+          "lon": 31.3322152,
+          "building_number": "6",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 251,
+          "address": " القاهرة مدينة نصر عباس العقاد ٤ ش أنور المفتى خلف كشرى التحرير ",
+          "lat": 30.0672047,
+          "lon": 31.335054,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 271,
+          "address": "65 أحمد الساوي مكرم عبيد، الطابق 6، الشقة 601",
+          "lat": 30.0576458,
+          "lon": 31.3551949,
+          "building_number": "nan",
+          "apartment_number": "601"
+        },
+        {
+          "delivery_id": 291,
+          "address": "نورا عبد الناصر  12 ش د. عبد الحكيم الرفاعي من عباس العقاد دور ٦ شقه ١٩  01095522702, Egypt",
+          "lat": 30.0531712,
+          "lon": 31.3404339,
+          "building_number": "nan",
+          "apartment_number": "19"
+        }
+      ]
+    },
+    {
+      "courier_id": 13,
+      "num_shipments": 15,
+      "operational_area_km2": 3.309413,
+      "shipments": [
+        {
+          "delivery_id": 12,
+          "address": "مدينة نصر شارع محمود خيري 25 مدينه نصر",
+          "lat": 30.0625432,
+          "lon": 31.3339402,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 32,
+          "address": "أحمد نور الدين",
+          "lat": 30.0612099,
+          "lon": 31.3430277,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 52,
+          "address": "٢٠ شارع زهير صبرى، المنطقة الاولى مدينه نصر. الدور الخامس- شقه ١٢",
+          "lat": 30.0555474,
+          "lon": 31.3271773,
+          "building_number": "nan",
+          "apartment_number": "12"
+        },
+        {
+          "delivery_id": 72,
+          "address": "94 شارع حسن المأمون شارع النادي الاهلي الدور الرابع شقة 8 تحت العماره صيدلية العزبي علي الانتركم مدينه نصر",
+          "lat": 30.0674839,
+          "lon": 31.3568293,
+          "building_number": "nan",
+          "apartment_number": "8"
+        },
+        {
+          "delivery_id": 92,
+          "address": "ثلاثة شارع الشيخ احمد الصاوي متفرع من مكرم عبيد , مدينة نصر الدور الثاني شقة خمسة",
+          "lat": 30.0567689,
+          "lon": 31.3467445,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 112,
+          "address": "٢ جمال الدين عفيفى ناصية ابراهيم نوار المنطقة السادسة مدينة نصر  مدينة نصر",
+          "lat": 30.0646271,
+          "lon": 31.3504464,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 132,
+          "address": "شارع عماد الدين كامل خلف مسجد رابعة العدوية ",
+          "lat": 30.0664982,
+          "lon": 31.3330025,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 152,
+          "address": "01062610797 القاهرة-مدينة نصر- ١ نور الدين محمود متفرع من مكرم عبيد ومتقاطع مع شارع بن النفيس - بجوار مطعم بيتي القاهرة- \r\n \r\n",
+          "lat": 30.0587206,
+          "lon": 31.3472104,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 172,
+          "address": "30شارع البطراوي مدينه نصر",
+          "lat": 30.0618951,
+          "lon": 31.336469,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 192,
+          "address": "مدينة ناصر/شارع طيران، -",
+          "lat": 30.0607084,
+          "lon": 31.3271199,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 212,
+          "address": "٢١ شارع ابراهيم نوار متفرع من احمد فخري، مدينة نصر، الدور الرابع، شقة ٩، القاهرة",
+          "lat": 30.0665109,
+          "lon": 31.3500137,
+          "building_number": "nan",
+          "apartment_number": "9"
+        },
+        {
+          "delivery_id": 232,
+          "address": "\r\n11 عباس العقاد الدور العاشر شقة 20",
+          "lat": 30.0663731,
+          "lon": 31.3366474,
+          "building_number": "nan",
+          "apartment_number": "20"
+        },
+        {
+          "delivery_id": 252,
+          "address": "٢٢ انور المفتي طيبه ٢٠٠٠ مدينه نصر القاهره, مدينة نصر",
+          "lat": 30.066841,
+          "lon": 31.3296782,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 272,
+          "address": "القاهره حي مدينه نصر 5 طريق النصر بعد طيبة مول ب 4 عماير عمارة البنك العقارى مدخل 1 الدور السادس \r\n",
+          "lat": 30.0675799,
+          "lon": 31.3325906,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 292,
+          "address": "شارع قريش، عباس العقاد Unionaire، مدينة نصر، القاهرة",
+          "lat": 30.059817,
+          "lon": 31.3403104,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        }
+      ]
+    },
+    {
+      "courier_id": 14,
+      "num_shipments": 15,
+      "operational_area_km2": 2.362278,
+      "shipments": [
+        {
+          "delivery_id": 13,
+          "address": "2 رفح من أحمد قاسم جودة من عباس العقاد، الطابق الأرضي، شقة 2",
+          "lat": 30.0557556,
+          "lon": 31.3366724,
+          "building_number": "nan",
+          "apartment_number": "2"
+        },
+        {
+          "delivery_id": 33,
+          "address": "شارع كابول متفرع من مكرم عبيد",
+          "lat": 30.057201,
+          "lon": 31.34489,
+          "building_number": "23",
+          "apartment_number": "6"
+        },
+        {
+          "delivery_id": 53,
+          "address": "٢٣ محمد كامل الحروني",
+          "lat": 30.0618028,
+          "lon": 31.3527735,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 73,
+          "address": "38 ش الفريق علي عامر متفرع من مكرم عبيد مدينة نصر القاهرة الدور الاول شقة يسار\r\nالتسليم من ١٢ ظهرا حتي الرابعة مساء \r\nالعطلة يوم الحمعة مدينة نصر",
+          "lat": 30.0611524,
+          "lon": 31.3438366,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 93,
+          "address": "٤٤ الفريق أول علي عامر-مكرم عبيد-مدينة نصر-الدور الأول-شقة ١. أمام حديقة الطفل بجوار مستشفى دكتور صيام, Nasr City",
+          "lat": 30.0620277,
+          "lon": 31.3442251,
+          "building_number": "nan",
+          "apartment_number": "1"
+        },
+        {
+          "delivery_id": 113,
+          "address": "القاهره  العنوان ٣١ شارع اسماعيل القباني بمدينه نصر خلف جنينه مول واعلي معرض طارق للسيارات الدور الثاني شقه  ٥ القاهرة- \r\n \r\n",
+          "lat": 30.0592199,
+          "lon": 31.3309387,
+          "building_number": "nan",
+          "apartment_number": "5"
+        },
+        {
+          "delivery_id": 133,
+          "address": "\"53 ش مصطفي النحاس مدينة نصر  ٣٢\"",
+          "lat": 30.0543493,
+          "lon": 31.3456503,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 153,
+          "address": "٤٩ معز الدولة، نصر",
+          "lat": 30.0602577,
+          "lon": 31.3522481,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 173,
+          "address": "علامة مميزة(وراء التوحيد والنور) - الدور(١) - شقة(١)-عمارة(٣٣) - محافظة القاهرة - مدينة نصر - المنطقة الثامنة - شارع عبد الحي حجازي, مدينة نصر, محافظة القاهرة",
+          "lat": 30.0536911,
+          "lon": 31.3457316,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 193,
+          "address": "2 شارع علي الجندي، مدينة نصر",
+          "lat": 30.0658795,
+          "lon": 31.3507679,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 213,
+          "address": "٢٩البطراوي عباس العقاد مدينه نصر الدور ال ١٣ شقه ٢٤, Nasr City",
+          "lat": 30.0616669,
+          "lon": 31.3363325,
+          "building_number": "nan",
+          "apartment_number": "24"
+        },
+        {
+          "delivery_id": 233,
+          "address": "9 محمد غنيم متفرع من شارع احمد فخرى - مدينة نصر",
+          "lat": 30.0631056,
+          "lon": 31.3518619,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 253,
+          "address": "مدينة نصر مكرم عبيد ٤٢ عبدالرزاق السنهوري الدور السادس شقة شمال الاسانسير",
+          "lat": 30.0626799,
+          "lon": 31.3436897,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 273,
+          "address": "٧ ش الإصلاح مدينة نصر",
+          "lat": 30.0561026,
+          "lon": 31.3275348,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 293,
+          "address": "مدينه نصر 60 شارع ابو داوود الظاهري تقاطع ابو داوود مع حسن المأمون الدور الخامس شقه 17",
+          "lat": 30.0616482,
+          "lon": 31.3568608,
+          "building_number": "nan",
+          "apartment_number": "17"
+        }
+      ]
+    },
+    {
+      "courier_id": 15,
+      "num_shipments": 15,
+      "operational_area_km2": 3.011402,
+      "shipments": [
+        {
+          "delivery_id": 14,
+          "address": "٣ش علي الجندي متفرع من أحمد فخري المنطقة السادسة مدينة نصر\nالدور السادس شقة ١٧\nمدينة نصر",
+          "lat": 30.0661106,
+          "lon": 31.3511244,
+          "building_number": "nan",
+          "apartment_number": "17"
+        },
+        {
+          "delivery_id": 34,
+          "address": "10 محمود غنيم، مدينة نصر، القاهرة، 1, القاهرة, Cairo\t",
+          "lat": 30.0634792,
+          "lon": 31.3521012,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 54,
+          "address": "١ شارع صنعاء، متفرع من جابر بن حيان عباس العقاد_x000D_\r\n",
+          "lat": 30.0580892,
+          "lon": 31.3357037,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 74,
+          "address": "6 عبدالرحمن صدقي من حسنين هيكل عباس العقاد",
+          "lat": 30.0568714,
+          "lon": 31.3400391,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 94,
+          "address": "مدينه نصر شارع معزالدوله عماره ٥٢",
+          "lat": 30.0605495,
+          "lon": 31.3523804,
+          "building_number": "52",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 114,
+          "address": "83عمارات عثمان مدينة نصر تقاطع مصطفى النحاس مع اول عباس",
+          "lat": 30.0534089,
+          "lon": 31.337601,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 134,
+          "address": "مدينه نصر 33  لوسكا متفرع من احمد فخري الدور 1 شقه 4",
+          "lat": 30.0661844,
+          "lon": 31.3551807,
+          "building_number": "nan",
+          "apartment_number": "4"
+        },
+        {
+          "delivery_id": 154,
+          "address": "شارع إبراهيم نوار --- شقة 13، الطابق الخامس --- مدينة نصر",
+          "lat": 30.0645173,
+          "lon": 31.3500767,
+          "building_number": "nan",
+          "apartment_number": "13"
+        },
+        {
+          "delivery_id": 174,
+          "address": "22/الطابق السابع-محمد كامل الحاروني -مدينة نصر",
+          "lat": 30.0624839,
+          "lon": 31.3545582,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 194,
+          "address": "١٥ لوساكا متفرع من احمد فخرى",
+          "lat": 30.0657867,
+          "lon": 31.3515476,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 214,
+          "address": "٤٧ شارع أحمد حسني، مدينة نصر، مدينة نصر",
+          "lat": 30.0599804,
+          "lon": 31.3290067,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 234,
+          "address": "الحي السادس بجوار ايهاب سعيد الحلاق وحديقه الطفل/ مدينه نصر 44 ابو داود الظاهري الدور العاشر ش21",
+          "lat": 30.0616306,
+          "lon": 31.3561262,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 254,
+          "address": "٣٣ أحمد حسني، مدينة نصر، القاهرة --- القاهرة",
+          "lat": 30.0621177,
+          "lon": 31.3287275,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 274,
+          "address": "مدينه نصر - جنب جنينه مول_ شارع الرياضه 2 _ عماره 2- فوق سوبر ماركت مترو _",
+          "lat": 30.0601224,
+          "lon": 31.3302755,
+          "building_number": "2",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 294,
+          "address": "٢ محمد مصطفى حمام، مدينة نصر، القاهرة",
+          "lat": 30.0671985,
+          "lon": 31.3345097,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        }
+      ]
+    },
+    {
+      "courier_id": 16,
+      "num_shipments": 15,
+      "operational_area_km2": 4.089229,
+      "shipments": [
+        {
+          "delivery_id": 15,
+          "address": "القاهرة - مدينة نصر - 18 عماد الدين كامل",
+          "lat": 30.0666686,
+          "lon": 31.3331821,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 35,
+          "address": "٢٣ شارع محمد المقريف، مدينة نصر, Nasr City",
+          "lat": 30.0678042,
+          "lon": 31.3557713,
+          "building_number": "nan",
+          "apartment_number": "10"
+        },
+        {
+          "delivery_id": 55,
+          "address": "شارع عباس العقاد 5 الدور الخامس, القاهرة",
+          "lat": 30.0672601,
+          "lon": 31.3361424,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 75,
+          "address": "٤٣ش حسني احمد خلف المنطقة السادسة مدينة نصر الدور العاشر شقة 22 القاهرة مدينه نصر",
+          "lat": 30.0568502,
+          "lon": 31.3530574,
+          "building_number": "nan",
+          "apartment_number": "22"
+        },
+        {
+          "delivery_id": 95,
+          "address": "القاهره مدينة نصر 52 مصطفى النحاس عمارة دالي اكسبورت امام محجوب *تقاطع مصطفى النحاس ومكرم عبيد* الدور الخامس الشقة على يمين الاسانسير 401",
+          "lat": 30.054843,
+          "lon": 31.3458479,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 115,
+          "address": "مدينه نصر 62 شارع كابول متفرع من عباس  الدور الخامس شمال الاسانسير تحت العمارة صالون حلاقة وامامها حديقه الطفل",
+          "lat": 30.0618,
+          "lon": 31.3439938,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 135,
+          "address": "١٨ احمد قاسم جوده مدينة نصر عباس العقاد, القاهرة",
+          "lat": 30.0587601,
+          "lon": 31.3368405,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 155,
+          "address": "٣٥ شارع طرابلس متفرع من عباس العقاد الدور الاول, مدينةً نصر",
+          "lat": 30.0592458,
+          "lon": 31.343589,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 175,
+          "address": "القاهرة مدينه نصر  عماره ٧ شارع سيبويه المصري في شارع الطيران خلف مستشفى رابعه مبني دار الشروق الدور السادس ",
+          "lat": 30.0657051,
+          "lon": 31.3265874,
+          "building_number": "7",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 195,
+          "address": "32 شارع محمد كوريم من المقرفي أمام نادي الأهلي مدينة نصر، القاهرة، شقة 13 الطابق 6، القاهرة",
+          "lat": 30.0675869,
+          "lon": 31.3554904,
+          "building_number": "nan",
+          "apartment_number": "13"
+        },
+        {
+          "delivery_id": 215,
+          "address": "مدينة نصر عباس العقاد حاتم الطائي عماراة 14 الدور الارضي مدينة نصر",
+          "lat": 30.0639936,
+          "lon": 31.3336161,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 235,
+          "address": "21 محمد يوسف موسى، مدينة نصر",
+          "lat": 30.05363,
+          "lon": 31.330752,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 255,
+          "address": "شارع محمد كامل الحروني",
+          "lat": 30.0622597,
+          "lon": 31.3558909,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 275,
+          "address": "38 مكرم عبيد 8 شقة، الطابق الرابع C القاهرة",
+          "lat": 30.0591101,
+          "lon": 31.3452241,
+          "building_number": "nan",
+          "apartment_number": "8"
+        },
+        {
+          "delivery_id": 295,
+          "address": "مدينة نصر-32شارع محمود غنيم المنطقة السادسه مدينه نصر بجوار النادي الاهلي. مكتبه رودين-مدينة نصر",
+          "lat": 30.0636779,
+          "lon": 31.3551541,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        }
+      ]
+    },
+    {
+      "courier_id": 17,
+      "num_shipments": 15,
+      "operational_area_km2": 3.120287,
+      "shipments": [
+        {
+          "delivery_id": 16,
+          "address": "مدينة نصر مكرم عبيد شارع سامى عبدالرازق, القاهرة",
+          "lat": 30.0583883,
+          "lon": 31.3423183,
+          "building_number": "nan",
+          "apartment_number": "4"
+        },
+        {
+          "delivery_id": 36,
+          "address": "مدينة نصر ٦٦ عباس العقاد الدور التاسع شقه ٩٠٢, مدينة نصر",
+          "lat": 30.0597108,
+          "lon": 31.3377561,
+          "building_number": "nan",
+          "apartment_number": "902"
+        },
+        {
+          "delivery_id": 56,
+          "address": "شارع انور المفتى عباس العقاد ",
+          "lat": 30.0673336,
+          "lon": 31.3352145,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 76,
+          "address": "محل مومنتو عباس العقاد امام البنك الاهلي المصري عمارة رقم 8 مقر الشغل  القاهره",
+          "lat": 30.0666907,
+          "lon": 31.3371434,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 96,
+          "address": "القاهرة - مدينة نصر - 3 ش انور المفتي عباس العقاد مبني شركات البترول",
+          "lat": 30.0673336,
+          "lon": 31.3352145,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 116,
+          "address": "21 شارع  قريش متفرع من حسنين هيكل من شارع عباس العقاد مدينه نصر",
+          "lat": 30.0597931,
+          "lon": 31.3408884,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 136,
+          "address": "٦٦ برج مكه شارع حسن المأمون مدينة نصر, Nasr city",
+          "lat": 30.0641857,
+          "lon": 31.3577807,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 156,
+          "address": "٢٢ محمد مصطفى حمام، مدينة نصر",
+          "lat": 30.0640038,
+          "lon": 31.3360019,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 176,
+          "address": "٩طريق النصر, شركه وادي النيل للمقاولات الاول, عمارات المهندسين, Cairo\t",
+          "lat": 30.0713975,
+          "lon": 31.352918,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 196,
+          "address": "٨ ب شارع نبيل عبد الرحمن متفرع من صقلية ( ناصية معرض مصطفي السلاب مكرم عبيد ) مدينة نصر - الدور ٣ شقة ٣٠٣ Cairo",
+          "lat": 30.0576913,
+          "lon": 31.341914,
+          "building_number": "nan",
+          "apartment_number": "303"
+        },
+        {
+          "delivery_id": 216,
+          "address": "١٩ تحسين فرغلى دور ٩ شقه ٢٧ , Nasr City, Nasr City, Cairo\t",
+          "lat": 30.0634402,
+          "lon": 31.3313407,
+          "building_number": "nan",
+          "apartment_number": "27"
+        },
+        {
+          "delivery_id": 236,
+          "address": "شارع أحمد نور الدين من شارع كابول - مكرم عبيد - مدينة نصر - مبنى رقم 7، الطابق 5، الشقة 12",
+          "lat": 30.0611991,
+          "lon": 31.3430257,
+          "building_number": "nan",
+          "apartment_number": "12"
+        },
+        {
+          "delivery_id": 256,
+          "address": "مدينة نصر ٣٣ ش مصطفي النحاس الرئيسي بجوار المصرية للابواب محطة ثروت",
+          "lat": 30.0543302,
+          "lon": 31.3427106,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 276,
+          "address": "19 جمال الدين واصل",
+          "lat": 30.0656683,
+          "lon": 31.331822,
+          "building_number": "nan",
+          "apartment_number": "52"
+        },
+        {
+          "delivery_id": 296,
+          "address": "٣ محمد المرجوشي متفرع من احمد فخري خلف حديقة الطفل ( park view ) علي اول الشارع سوبرماركت اسواق نوارة  عمارة ٣  الدور ٤  شقة ١٠, Nasr City",
+          "lat": 30.0624252,
+          "lon": 31.3511429,
+          "building_number": "nan",
+          "apartment_number": "10"
+        }
+      ]
+    },
+    {
+      "courier_id": 18,
+      "num_shipments": 15,
+      "operational_area_km2": 3.587547,
+      "shipments": [
+        {
+          "delivery_id": 17,
+          "address": "محمد توفيق وهبة من حسن المأمون مدينة نصر 15، مدينة نصر",
+          "lat": 30.0655909,
+          "lon": 31.3555233,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 37,
+          "address": "3 اسماعيل القباني من شارع الطيران عند التأمين الصحي مدينه نصر",
+          "lat": 30.0583873,
+          "lon": 31.3269273,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 57,
+          "address": "مدينه نصر 9 سمير مرسي من حسنين هيكل ",
+          "lat": 30.0582487,
+          "lon": 31.3410597,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 77,
+          "address": "١٣ ش محمد غنيم متفرع من حسن المأمون",
+          "lat": 30.0630324,
+          "lon": 31.3557595,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 97,
+          "address": "مدينة نصر ٣٠ احمد الصاوي متفرع من مكرم عبيد بالقرب من مسجد الارقم الدور ٣ شقة ٥",
+          "lat": 30.0577438,
+          "lon": 31.3520466,
+          "building_number": "nan",
+          "apartment_number": "5"
+        },
+        {
+          "delivery_id": 117,
+          "address": "مدينه نصر شارع مكرم عبيد عمارات الهيئة العربية للتصنيع عماره 4 ب الدور 8 شقه 81",
+          "lat": 30.0660424,
+          "lon": 31.3452183,
+          "building_number": "4",
+          "apartment_number": "81"
+        },
+        {
+          "delivery_id": 137,
+          "address": "4/4.  اول عباس العقاد ش د. انورالمفتى خلف. طيبه. مول. أمام مستشفى تبارك الدور الثاني. شقة25 التواصل قبلها بيوم",
+          "lat": 30.0673743,
+          "lon": 31.3343387,
+          "building_number": "nan",
+          "apartment_number": "25"
+        },
+        {
+          "delivery_id": 157,
+          "address": "سلمي ابراهيم أبوالحمد العنوان  ٤٠ شارع محمد طلعت سالم  خلف L C Wakiki  متفرع من عباس العقاد امام مطعم بيت ستي مدينه نصر  الدور ٢  شقه ٨ ٠١٠٠٠٧٤٢١٥٨",
+          "lat": 30.0647788,
+          "lon": 31.335816,
+          "building_number": "nan",
+          "apartment_number": "8"
+        },
+        {
+          "delivery_id": 177,
+          "address": "٨ش محمد عوض المتفرع من مكرم عبيد, مدينة نصر",
+          "lat": 30.067151,
+          "lon": 31.3436122,
+          "building_number": "nan",
+          "apartment_number": "15"
+        },
+        {
+          "delivery_id": 197,
+          "address": "3 شارع احمد الصيفى متفرع من مصطفى النحاس الدور 7 شقة 704",
+          "lat": 30.0535542,
+          "lon": 31.3424141,
+          "building_number": "nan",
+          "apartment_number": "704"
+        },
+        {
+          "delivery_id": 217,
+          "address": "١٩ الفريق علي عامر متفرع من مكرم عبيد المنطقه السادسه بجوار مدرسه المناره برج المني الدور ٤ شقه ٤٢",
+          "lat": 30.0616673,
+          "lon": 31.3419896,
+          "building_number": "nan",
+          "apartment_number": "42"
+        },
+        {
+          "delivery_id": 237,
+          "address": "33 عبد العظيم الغولامي، المنطقة السادسة، مدينة نصر، محافظة القاهرة 4450341، مصر",
+          "lat": 30.0649122,
+          "lon": 31.3433215,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 257,
+          "address": "القاهره\r\nمحل ١١ أسفل كوبري الطيران بعد سوبر ماركت المحلاوي- مدينه نصر\r\n مدينه نصر",
+          "lat": 30.0578906,
+          "lon": 31.3263337,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 277,
+          "address": "٣ ش الفدا خلف كنتاكي الطيران مدينة نصر",
+          "lat": 30.0632131,
+          "lon": 31.3276799,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 297,
+          "address": "القاهره مدينه نصر 1علي الجندي الدور الخامس شقة 502",
+          "lat": 30.0658896,
+          "lon": 31.3506327,
+          "building_number": "nan",
+          "apartment_number": "502"
+        }
+      ]
+    },
+    {
+      "courier_id": 19,
+      "num_shipments": 15,
+      "operational_area_km2": 3.646695,
+      "shipments": [
+        {
+          "delivery_id": 18,
+          "address": "٩٤ شارع حسن المامون مدينة نصر القاهرة الدور ١١ شقة ٢١",
+          "lat": 30.0673,
+          "lon": 31.3567981,
+          "building_number": "nan",
+          "apartment_number": "21"
+        },
+        {
+          "delivery_id": 38,
+          "address": "مدينة نصر المنطقة الاولي شارع سيبويه المصري من شارع الطيران",
+          "lat": 30.0654616,
+          "lon": 31.3266771,
+          "building_number": "nan",
+          "apartment_number": "7"
+        },
+        {
+          "delivery_id": 58,
+          "address": "شارع حسني أحمد خلف",
+          "lat": 30.0565162,
+          "lon": 31.3498551,
+          "building_number": "nan",
+          "apartment_number": "5"
+        },
+        {
+          "delivery_id": 78,
+          "address": "١٢ شارع عبدالعظيم الغلمى من حسنين هيكل عباس العقاد مدينه نصر الدور الثالث شقة 8",
+          "lat": 30.0638861,
+          "lon": 31.3390486,
+          "building_number": "nan",
+          "apartment_number": "8"
+        },
+        {
+          "delivery_id": 98,
+          "address": "20 إسماعيل القباني، مدينة نصر",
+          "lat": 30.0592597,
+          "lon": 31.3289902,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 118,
+          "address": "رقم ١٠ شارع المؤيد دور شقه ١١ المنطقة الأولى مدينة نصر  المنطقة الاولي خلف طيبة مول القاهرة",
+          "lat": 30.0650501,
+          "lon": 31.3315026,
+          "building_number": "nan",
+          "apartment_number": "11"
+        },
+        {
+          "delivery_id": 138,
+          "address": "ش عباس العقاد دور ٦ شقة ١٢ ٧٤",
+          "lat": 30.0581665,
+          "lon": 31.3382278,
+          "building_number": "nan",
+          "apartment_number": "12"
+        },
+        {
+          "delivery_id": 158,
+          "address": "٣٤ محمود غنيم ، الدور السادس، شقه ١٨  القاهره مدينه نصر - بجوار الملكه",
+          "lat": 30.0637749,
+          "lon": 31.3552858,
+          "building_number": "nan",
+          "apartment_number": "18"
+        },
+        {
+          "delivery_id": 178,
+          "address": "شارع البطراوي مدينه نصر, القاهره",
+          "lat": 30.0614398,
+          "lon": 31.331394,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 198,
+          "address": "Address: 29شارع حسني احمد خلف متفرع من مكرم عبيد مدينة نصرالدور12 شقة25",
+          "lat": 30.0565874,
+          "lon": 31.3511864,
+          "building_number": "nan",
+          "apartment_number": "25"
+        },
+        {
+          "delivery_id": 218,
+          "address": "زهير صبري، الطابق الثالث، الشقة الخامسة، مدينة نصر، القاهرة",
+          "lat": 30.0561026,
+          "lon": 31.3275348,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 238,
+          "address": "أحمد فخري",
+          "lat": 30.0653995,
+          "lon": 31.3493693,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 258,
+          "address": " القاهره مدينه نصر \r\nالمنطقه الاولى شارع انور المفتي",
+          "lat": 30.0675155,
+          "lon": 31.3332396,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 278,
+          "address": "39 عبد الرزاق السنوري شارع عباس العقاد، مدينة نصر",
+          "lat": 30.0626759,
+          "lon": 31.3435202,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 298,
+          "address": "مدينة نصر شارع الشيخ احمد الصاوي - عمارة ١١ - الدور الاول - شقة ١",
+          "lat": 30.0573029,
+          "lon": 31.3493879,
+          "building_number": "nan",
+          "apartment_number": "1"
+        }
+      ]
+    },
+    {
+      "courier_id": 20,
+      "num_shipments": 15,
+      "operational_area_km2": 1.98463,
+      "shipments": [
+        {
+          "delivery_id": 19,
+          "address": "43 شارع عبد الرزاق السنوري",
+          "lat": 30.0626694,
+          "lon": 31.3438975,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 39,
+          "address": "مدينه نصر 50 شارع عباس العقاد",
+          "lat": 30.0567248,
+          "lon": 31.3557514,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 59,
+          "address": "66 شارع حسني احمد خلف برج الاندلس الدور السادس شقه ١٨ الحي الثامن المنطقه السادسه",
+          "lat": 30.057245,
+          "lon": 31.3558404,
+          "building_number": "nan",
+          "apartment_number": "18"
+        },
+        {
+          "delivery_id": 79,
+          "address": "- - ١٢١ ش محمد المقريف شقة ٣  مدينة نصر ١ -",
+          "lat": 30.0639498,
+          "lon": 31.3568434,
+          "building_number": "nan",
+          "apartment_number": "3"
+        },
+        {
+          "delivery_id": 99,
+          "address": "شارع حسني خلف",
+          "lat": 30.0567596,
+          "lon": 31.3501904,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 119,
+          "address": " علي مدينه نصر حسنين هياكل  ٢٥ محمود سامي االبرودي القاهره \r\n \r\n",
+          "lat": 30.060174,
+          "lon": 31.3396469,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 139,
+          "address": "٣٩ شارع مصطفى النحاس بجوار تقاطعه مع شارع مكرم عبيد أمام صيدلية العزبى و بجوار معمل الفا و المختبر, ",
+          "lat": 30.0540179,
+          "lon": 31.3438756,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 159,
+          "address": "مدينة نصر  شارع حسنى احمد خلف المتفرع من مكرم عبيد عمارة ١٦ الدور الارضي شقه ١",
+          "lat": 30.0566622,
+          "lon": 31.3493918,
+          "building_number": "nan",
+          "apartment_number": "1"
+        },
+        {
+          "delivery_id": 179,
+          "address": "القاهرة - مدينة نصر - 93 مصطفى النحاس عمارة مركز النور للعيون الدور الخامس",
+          "lat": 30.0548712,
+          "lon": 31.3510282,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 199,
+          "address": "القاهره مدينه نصر - ابو داوود الظاهري عماره 53 الدور ال9شقه18",
+          "lat": 30.0611032,
+          "lon": 31.3525633,
+          "building_number": "53",
+          "apartment_number": "18"
+        },
+        {
+          "delivery_id": 219,
+          "address": "مدبنه نصر مكرم عبيد ٢٩",
+          "lat": 30.0635759,
+          "lon": 31.3423538,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 239,
+          "address": "٢١ علي الجندي، المنطقة السادسة، مدينة نصر، محافظة القاهرة 4450472، مصر",
+          "lat": 30.0668244,
+          "lon": 31.3528365,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 259,
+          "address": "٨٣ ابو داود الظاهرى متفرع من حسن المأمون مدينة نصر, القاهرة",
+          "lat": 30.0615406,
+          "lon": 31.356723,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        },
+        {
+          "delivery_id": 279,
+          "address": "ش الفريق محمد أبراهيم متفرع من حسنين هيكل مدينه نصر القاهرة عمارة 12 الدور 8 شقة 801, القاهره",
+          "lat": 30.0563259,
+          "lon": 31.3407161,
+          "building_number": "nan",
+          "apartment_number": "801"
+        },
+        {
+          "delivery_id": 299,
+          "address": "جمال الدين عفيفي، المنطقة السادسة، مدينة نصر 40، القاهرة، مصر",
+          "lat": 30.0652612,
+          "lon": 31.3562395,
+          "building_number": "nan",
+          "apartment_number": "nan"
+        }
+      ]
+    }
+  ]
+}
