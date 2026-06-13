@@ -32,13 +32,12 @@ python task2.py
 
 ```
 
-### Note :
+## Note:
+* Task 1 will generate: 3 files (2 CSVs + 1 JSON) and 5 images (charts)
 
-* Task 1 will generate :
-3 file (2 csvs and 1 json) & 
-5 images as charts
-> note when appears to you the image you must close it after review it to show another one
-> and also i put these files into folder call outputs just to review directly.
+* When an image appears, close it to view the next one
+
+* All output files are saved in the outputs/ folder for easy review
 
 ## TASK1
 
@@ -52,6 +51,79 @@ and files :
 **deliveries_16_oct_with_estimates.csv**:   313 rows + estimates + confidence Task 1.2
 **dispatch_plan.json**:                     Distribution plan + area 64.84 km² Task 1.3
 
+## Task 2: Customer Support Bot Analysis
+
+### Overview
+Analyzed 678 customer support chatbot conversations to identify conversation patterns, detect handoffs to human agents, and perform sentiment analysis.
+
+---
+
+### 2.1 Conversation Clustering & Handoff Detection
+
+**Methodology:**
+- TF-IDF vectorization for text features
+- KMeans clustering (5 clusters)
+- Keyword-based handoff detection
+
+**Results:**
+
+| Cluster Label | Count | Percentage | Handoff Rate |
+|---------------|-------|------------|--------------|
+| Shipping/Delivery Issue | 587 | 90.0% | 82.6% |
+| General Inquiry | 65 | 10.0% | 56.9% |
+
+**Overall Handoff Rate:** 530 out of 676 conversations (78.4%)
+
+---
+
+### 2.2 Sentiment & Urgency Analysis (Bonus)
+
+**Methodology:** Keyword-based Arabic sentiment analyzer
+
+**Sentiment Distribution:**
+
+| Sentiment | Count | Percentage |
+|-----------|-------|------------|
+| Negative | 365 | 56.0% |
+| Neutral | 181 | 27.8% |
+| Positive | 106 | 16.3% |
+
+**Urgency Distribution:**
+
+| Urgency Level | Count | Percentage |
+|---------------|-------|------------|
+| Low | 563 | 86.3% |
+| Medium | 81 | 12.4% |
+| High | 8 | 1.2% |
+
+---
+
+### 2.3 Agentic AI Design (Conceptual)
+
+**Architecture Components:**
+1. Input Processing
+2. Intent Classifier (LLM/TF-IDF)
+3. Knowledge & APIs (FAQ, Tracking API, Customer Data)
+4. Decision Engine (Auto-response vs Handoff)
+5. Response Formatter (Text, Buttons, Links)
+6. Feedback Loop (Rating, Sentiment, Retraining)
+
+**Efficiency Improvements:**
+- Response time: Minutes → 3 seconds for shipping inquiries
+- Handoff rate: 80% → 20% (60% reduction)
+- Agent time saved: 40%
+
+---
+
+### Task 2 Output Files
+
+| File Name | Description |
+|-----------|-------------|
+| `conversation_analysis.csv` | Full conversation analysis with cluster labels (Task 2.1) |
+| `conversation_clusters.json` | Cluster summary in JSON format (Task 2.1) |
+| `conversation_analysis_with_sentiment.csv` | Analysis with sentiment and urgency scores (Task 2.2 - Bonus) |
+| `agentic_ai_architecture.png` | Agentic AI system architecture diagram (Task 2.3) |
+
 ## Project Contents :
 
 ### Python scripts
@@ -62,8 +134,11 @@ and files :
 
 - PDF (All deatils inclueding:explanation of agentic AI system design and other tasks )- Final Report : explaining methodology, assumptions, and results
 
-And outputs folder : Attaced all outputs i created.
+And outputs folder : Attaced all outputs i created + python code to generate the agentic AI system design.
 
-
-
-
+## Technologies Used
+Category               |	Libraries
+Data Processing        |	pandas, numpy
+Machine Learning & NLP |	scikit-learn (TF-IDF, KMeans)
+Geometric Operations	 | scipy (ConvexHull), shapely (Polygon)
+Visualization	         | matplotlib, seaborn
