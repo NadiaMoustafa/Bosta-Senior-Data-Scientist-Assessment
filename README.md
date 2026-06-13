@@ -46,6 +46,15 @@ it creates
 note when appears to you the image you must close it after review it to show another one
 
 
+
+What's the file name and what does it contain?
+
+conversation_analysis.csv: All conversations + cluster + handoff to see the complete result.
+
+conversation_clusters.json: Summary of clustering in JSON for automation.
+
+conversation_analysis_with_sentiment.csv: Same as above + sentiment + urgency for the bonus.
+
 Assumptions made in Task 1:
 1. All deliveries are within Nasr City, Cairo
 2. Missing coordinates (16-10) are estimated using historical matching
