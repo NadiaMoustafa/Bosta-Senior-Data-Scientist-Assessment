@@ -35,8 +35,8 @@ python task2.py
 ### Note :
 
 * Task 1 will generate :
-3 file (2 csvs and 1 json)
-5 iamges as charts
+3 file (2 csvs and 1 json) & 
+5 images as charts
 > note when appears to you the image you must close it after review it to show another one
 > and also i put these files into folder call outputs just to review directly.
 
