@@ -52,5 +52,18 @@ and files :
 **deliveries_16_oct_with_estimates.csv**:   313 rows + estimates + confidence Task 1.2
 **dispatch_plan.json**:                     Distribution plan + area 64.84 km² Task 1.3
 
+## Project Contents :
+
+### Python scripts
+- task1.py, task2.py
+> run these after cloned the repo and install the requirments and it generate the CSVs and Images.
+
+### BDF Document + agentic AI system design
+
+- PDF (All deatils inclueding:explanation of agentic AI system design and other tasks )- Final Report : explaining methodology, assumptions, and results
+
+And outputs folder : Attaced all outputs i created.
+
+
 
 
